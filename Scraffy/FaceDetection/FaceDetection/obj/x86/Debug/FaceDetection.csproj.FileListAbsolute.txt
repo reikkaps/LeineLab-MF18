@@ -1,0 +1,16 @@
+C:\Users\matth\source\repos\LeineLab-MF18\Scraffy\FaceDetection\FaceDetection\obj\x86\Debug\FaceDetection.csprojResolveAssemblyReference.cache
+C:\Users\matth\source\repos\LeineLab-MF18\Scraffy\FaceDetection\FaceDetection\obj\x86\Debug\FaceDetection.csproj.GenerateResource.cache
+C:\Users\matth\source\repos\LeineLab-MF18\Scraffy\FaceDetection\FaceDetection\obj\x86\Debug\FaceDetection.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\LeineLab-MF18\Scraffy\FaceDetection\FaceDetection\bin\x86\Debug\StackVision.exe.config
+C:\Users\matth\source\repos\LeineLab-MF18\Scraffy\FaceDetection\FaceDetection\bin\x86\Debug\StackVision.exe
+C:\Users\matth\source\repos\LeineLab-MF18\Scraffy\FaceDetection\FaceDetection\bin\x86\Debug\StackVision.pdb
+C:\Users\matth\source\repos\LeineLab-MF18\Scraffy\FaceDetection\FaceDetection\bin\Debug\FaceDetection.exe.config
+C:\Users\matth\source\repos\LeineLab-MF18\Scraffy\FaceDetection\FaceDetection\bin\Debug\FaceDetection.exe
+C:\Users\matth\source\repos\LeineLab-MF18\Scraffy\FaceDetection\FaceDetection\bin\Debug\FaceDetection.pdb
+C:\Users\matth\source\repos\LeineLab-MF18\Scraffy\FaceDetection\FaceDetection\obj\x86\Debug\FaceDetection.Properties.Resources.resources
+C:\Users\matth\source\repos\LeineLab-MF18\Scraffy\FaceDetection\FaceDetection\obj\x86\Debug\FaceDetection.exe
+C:\Users\matth\source\repos\LeineLab-MF18\Scraffy\FaceDetection\FaceDetection\obj\x86\Debug\FaceDetection.pdb
+C:\Users\matth\source\repos\LeineLab-MF18\Scraffy\FaceDetection\FaceDetection\obj\x86\Debug\FaceDetection.MainForm.resources
+C:\Users\matth\source\repos\LeineLab-MF18\Scraffy\FaceDetection\FaceDetection\bin\Debug\Emgu.CV.Cuda.dll
+C:\Users\matth\source\repos\LeineLab-MF18\Scraffy\FaceDetection\FaceDetection\bin\Debug\Emgu.CV.Cuda.xml
+C:\Users\matth\source\repos\LeineLab-MF18\Scraffy\FaceDetection\FaceDetection\obj\x86\Debug\FaceDetection.csproj.CopyComplete
